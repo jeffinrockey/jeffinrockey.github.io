@@ -11,3 +11,7 @@
   
 ### VCF
 * [bcftools](https://samtools.github.io/bcftools/bcftools.html)
+
+### Methylation
+* [dnmtools](https://github.com/smithlabcode/dnmtools)
+* [metilene](http://legacy.bioinf.uni-leipzig.de/Software/metilene/)
