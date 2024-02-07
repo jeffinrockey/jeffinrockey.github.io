@@ -16,3 +16,4 @@
 * [dnmtools](https://github.com/smithlabcode/dnmtools)
 * [metilene](http://legacy.bioinf.uni-leipzig.de/Software/metilene/)
 * [BISCUIT](https://huishenlab.github.io/biscuit/) [biscuit tview]
+* [DMRCaller](https://bioconductor.org/packages/release/bioc/html/DMRcaller.html)
