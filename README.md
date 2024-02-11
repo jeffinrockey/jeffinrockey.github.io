@@ -20,4 +20,4 @@
 * [methylartist](https://github.com/adamewing/methylartist)
 
 ### Fastq
-* [fasten] (https://github.com/lskatz/fasten)
+* [fasten](https://github.com/lskatz/fasten)
