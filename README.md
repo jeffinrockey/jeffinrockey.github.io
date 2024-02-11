@@ -18,3 +18,6 @@
 * [BISCUIT](https://huishenlab.github.io/biscuit/) [biscuit tview]
 * [DMRcaller](https://bioconductor.org/packages/release/bioc/html/DMRcaller.html)
 * [methylartist](https://github.com/adamewing/methylartist)
+
+### Fastq
+* [fasten] (https://github.com/lskatz/fasten)
